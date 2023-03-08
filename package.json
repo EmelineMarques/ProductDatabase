@@ -35,11 +35,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/EmelineMarques/ProductDatabase.git"
+    "url": "git+https://github.com/Ravencypher/ProductDatabase.git"
   },
   "bugs": {
-    "url": "https://github.com/EmelineMarques/ProductDatabase/issues"
+    "url": "https://github.com/Ravencypher/ProductDatabase/issues"
   },
-  "homepage": "https://github.com/EmelineMarques/ProductDatabase#readme",
+  "homepage": "https://github.com/Ravencypher/ProductDatabase#readme",
   "description": "Product Database"
 }
